@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "coffee-store-ed643",
+    "firebase deploy": "coffee-store-3a45c"
+  },
+  "targets": {},
+  "etags": {}
+}
